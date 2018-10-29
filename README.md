@@ -1,1 +1,1 @@
-# react_trivia_app
+# Basic trivia app on React
